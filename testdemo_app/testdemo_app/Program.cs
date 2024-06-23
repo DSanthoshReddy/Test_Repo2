@@ -10,6 +10,8 @@ namespace testdemo_app
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("UI creation done.");
+            Console.ReadLine();
         }
     }
 }
